@@ -1,0 +1,132 @@
+2024-05-03 13:50:35.9048|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-05-03 13:50:35.9048|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-05-03 13:50:35.9444|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-05-03 13:50:35.9444|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-05-03 13:50:35.9444|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-05-03 13:52:40.9609|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12345 |url: https://localhost/enter|action: SignInUser
+2024-05-03 13:52:42.0763|0|INFO|EngSite.Api.Web.Controllers.UserController|Returned 200 OK and jwt token as response |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:06:35.3966|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-05-03 14:06:35.3992|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-05-03 14:06:35.4262|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-05-03 14:06:35.4262|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-05-03 14:06:35.4262|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-05-03 14:11:55.3936|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12345 |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:11:55.4114|0|ERROR|EngSite.Api.Web.Controllers.UserController|Returned 400 |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:12:07.2785|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12345 |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:12:07.2845|0|ERROR|EngSite.Api.Web.Controllers.UserController|Returned 400 |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:12:35.5655|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12345 |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:12:35.5655|0|ERROR|EngSite.Api.Web.Controllers.UserController|Returned 400 |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:13:45.4111|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12345 |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:13:45.5507|0|ERROR|EngSite.Api.Web.Controllers.UserController|Returned 400 |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:14:17.6524|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-05-03 14:14:17.6524|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-05-03 14:14:17.6947|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-05-03 14:14:17.6947|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-05-03 14:14:17.6947|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-05-03 14:14:23.8235|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12345 |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:14:47.9740|0|ERROR|EngSite.Api.Web.Controllers.UserController|Returned 400 |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:14:52.1843|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12345 |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:15:44.3799|0|ERROR|EngSite.Api.Web.Controllers.UserController|Returned 400 |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:16:05.1164|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12346 |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:16:25.2415|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12346 |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:23:57.3871|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-05-03 14:23:57.3871|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-05-03 14:23:57.4177|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-05-03 14:23:57.4177|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-05-03 14:23:57.4177|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-05-03 14:24:28.5179|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12345 |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:24:29.3068|0|INFO|EngSite.Api.Web.Controllers.UserController|Returned 200 OK and jwt token as response |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:24:51.1448|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-05-03 14:24:51.1448|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-05-03 14:24:51.1741|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-05-03 14:24:51.1741|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-05-03 14:24:51.1741|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-05-03 14:25:06.0822|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12345 |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:25:06.1136|0|INFO|EngSite.Api.Web.Controllers.UserController|Returned 200 OK and jwt token as response |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:25:37.8929|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12345 |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:25:37.8929|0|INFO|EngSite.Api.Web.Controllers.UserController|Returned 200 OK and jwt token as response |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:35:26.5876|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12346 |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:35:26.5974|0|INFO|EngSite.Api.Web.Controllers.UserController|Returned 200 OK and jwt token as response |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:36:05.1060|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12346 |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:36:05.1130|0|INFO|EngSite.Api.Web.Controllers.UserController|Returned 200 OK and jwt token as response |url: https://localhost/enter|action: SignInUser
+2024-05-03 14:37:09.5802|0|INFO|EngSite.Api.Web.Controllers.StudentTeacherController|Got request body:  |url: https://localhost/studentTeacher/addStudent|action: AddStudent
+2024-05-03 14:37:09.5957|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (9ms) [Parameters=[@p0='?', @p1='?'], CommandType='Text', CommandTimeout='30']
+INSERT INTO "teacher-student" (studentlogin, teacherlogin)
+VALUES (@p0, @p1)
+RETURNING id; |url: https://localhost/studentTeacher/addStudent|action: AddStudent
+2024-05-03 14:37:09.6134|10000|ERROR|Microsoft.EntityFrameworkCore.Update|An exception occurred in the database while saving changes for context type 'EngSite.Api.DataAccess.EnglishSiteContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: INSERT или UPDATE в таблице "teacher-student" нарушает ограничение внешнего ключа "teacher_student_fk_1"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 23503
+    MessageText: INSERT или UPDATE в таблице "teacher-student" нарушает ограничение внешнего ключа "teacher_student_fk_1"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: teacher-student
+    ConstraintName: teacher_student_fk_1
+    File: ri_triggers.c
+    Line: 2619
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken) Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: INSERT или UPDATE в таблице "teacher-student" нарушает ограничение внешнего ключа "teacher_student_fk_1"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 23503
+    MessageText: INSERT или UPDATE в таблице "teacher-student" нарушает ограничение внешнего ключа "teacher_student_fk_1"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: teacher-student
+    ConstraintName: teacher_student_fk_1
+    File: ri_triggers.c
+    Line: 2619
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)|url: https://localhost/studentTeacher/addStudent|action: AddStudent
+2024-05-03 14:37:09.6134|0|ERROR|EngSite.Api.DataAccess.Repository.StudentTeacherRepository|Failed to add in database teacherLogin:12346;studentLogin: |url: https://localhost/studentTeacher/addStudent|action: AddStudent
+2024-05-03 14:37:09.6134|0|INFO|EngSite.Api.Web.Controllers.StudentTeacherController|400 error |url: https://localhost/studentTeacher/addStudent|action: AddStudent
+2024-05-03 14:37:56.3151|0|INFO|EngSite.Api.Web.Controllers.WorksController|Ok response |url: https://localhost/works/addDocument|action: AddDocument
+2024-05-03 14:38:28.9304|0|ERROR|EngSite.Api.DataAccess.Repository.MegaRepository|Value cannot be null. (Parameter 'node') |url: https://localhost/works/sendDocument|action: SendDocument
+2024-05-03 14:38:31.1190|0|ERROR|EngSite.Api.DataAccess.Repository.MegaRepository|API response: RequestFailedRetry |url: https://localhost/works/sendDocument|action: SendDocument
+2024-05-03 14:38:31.2079|0|ERROR|EngSite.Api.DataAccess.UnitOfWork.WorksDocumentUnitOfWork|Exception of type 'System.Exception' was thrown. |url: https://localhost/works/sendDocument|action: SendDocument
+2024-05-03 14:38:31.2079|0|INFO|EngSite.Api.Web.Controllers.WorksController|400 error |url: https://localhost/works/sendDocument|action: SendDocument
+2024-05-03 14:39:33.3659|0|ERROR|EngSite.Api.Web.Controllers.WorksController|Could not get documents |url: https://localhost/works/deleteDocument|action: DeleteDocument

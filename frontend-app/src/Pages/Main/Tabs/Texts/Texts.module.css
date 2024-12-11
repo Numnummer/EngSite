@@ -1,0 +1,18 @@
+.searcher{
+    margin-top: 3%;
+    margin-left: 6%;
+}
+
+.container{
+    height: 45vh;
+    overflow-y: auto;
+    border: 1vh solid #ccc;
+    padding: 2%;
+    margin-top: 3%;
+}
+
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+}

@@ -1,0 +1,9 @@
+2024-09-03 20:24:04.3539|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-09-03 20:24:04.3539|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-09-03 20:24:04.4015|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-09-03 20:24:04.4015|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-09-03 20:24:04.4015|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-09-03 20:24:29.2847|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12345 |url: https://localhost/enter|action: SignInUser
+2024-09-03 20:24:30.0824|0|ERROR|EngSite.Api.Web.Controllers.UserController|Returned 400 |url: https://localhost/enter|action: SignInUser
+2024-09-03 20:24:36.2750|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12345 |url: https://localhost/enter|action: SignInUser
+2024-09-03 20:24:36.3702|0|INFO|EngSite.Api.Web.Controllers.UserController|Returned 200 OK and jwt token as response |url: https://localhost/enter|action: SignInUser

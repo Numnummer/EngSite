@@ -1,0 +1,9 @@
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.block{
+    margin-left: 28%;
+    margin-top: 6%;
+}

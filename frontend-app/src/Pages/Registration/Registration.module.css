@@ -1,0 +1,51 @@
+.regForm {
+  border: 0.3vw solid #535bf2;
+  margin-left: 25%;
+  margin-top: 5%;
+  margin-right: 25%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-left: 10vw;
+  padding-right: 10vw;
+  background-color: gainsboro;
+}
+
+.formItem {
+  display: inline-flex;
+  flex-direction: row;
+  margin: 4%;
+}
+
+.formLabel {
+  font-weight: normal;
+  font-size: 2vw;
+  hyphens: none;
+  color: black;
+  display: inline-block;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.formInput {
+  margin-left: 3%;
+  width: 25vw;
+  font-size: 1.8vw;
+}
+
+.title {
+  font-size: 2.5vw;
+  font-weight: bold;
+  margin: 3%;
+}
+
+.formButton {
+  width: 25vw;
+  height: 5vh;
+  margin: 5%;
+  font-size: 1.5vw;
+  color: white;
+  background-color: #535bf2;
+}

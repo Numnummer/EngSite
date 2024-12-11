@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EngSite.Api.Web</name>
+    </assembly>
+    <members>
+        <member name="M:EngSite.Api.Web.Controllers.ForumController.GetMessages">
+            <summary>
+            Получить все сообщения в форуме
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:EngSite.Api.Web.Controllers.StatsController">
+            <summary>
+            Контроллер для статистик
+            </summary>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.StatsController.#ctor(EngSite.Api.BusinessLogic.Abstractions.Repository.IStatsRepository,Microsoft.Extensions.Logging.ILogger{EngSite.Api.Web.Controllers.StatsController})">
+            <summary>
+            Контроллер для статистик
+            </summary>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.StatsController.AddLearnedWords(EngSite.Api.Models.Stats.AddLearnedWordsRequest)">
+            <summary>
+            Увеличить количество изученных слов
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.StatsController.Init">
+            <summary>
+            Инициализирует статистику, устарел, статистика инициализируется
+            во время регистрации
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.StatsController.GetUserStat">
+            <summary>
+            Получить статистику пользователя
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.StudentTeacherController.AddStudent(EngSite.Api.Models.StudentTeacher.AddStudentRequest)">
+            <summary>
+            Добавить студента в ученики
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.StudentTeacherController.GetStudents">
+            <summary>
+            Получить список логинов учеников
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.StudentTeacherController.GetTeachers">
+            <summary>
+            Получить список логинов учителей
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.TextController.GetRandomTextAsync(System.String)">
+            <summary>
+            Получить рандомный текст из хранилища 
+            </summary>
+            <param name="level"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.TextController.AddTextToUserAsync(EngSite.Api.Models.Texts.TextData)">
+            <summary>
+            Привязать текст к пользователю
+            </summary>
+            <param name="textData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.TextController.GetAllTextsAsync">
+            <summary>
+            Получить все тексты пользователя
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.TextController.GetText(System.String)">
+            <summary>
+            Получить текст по названию из хранилища
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.TranslationController.TranslateEnglishSentence(System.String)">
+            <summary>
+            Перевести с английского на русский
+            </summary>
+            <param name="sentence"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.TranslationController.TranslateRissianSentence(System.String)">
+            <summary>
+            Перевести с русского на английский
+            </summary>
+            <param name="sentence"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.UserController.RegistrateUser(EngSite.Api.Models.User.Registrate.RegistrationUserData)">
+            <summary>
+            Зарегистрироваться
+            </summary>
+            <param name="requestBody"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.UserController.SignInUser(EngSite.Api.Models.User.SignIn.SignInUserData)">
+            <summary>
+            Войти
+            </summary>
+            <param name="userData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.UserController.GetUserData">
+            <summary>
+            Получение данных пользователя
+            </summary>
+            <returns>UserProfileData</returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.UserController.PostUserPhoto(EngSite.Api.Models.User.PostUserPhoto.PhotoRequest)">
+            <summary>
+            Отправить картинку в бд
+            </summary>
+            <param name="photoBlob"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.WordsController.GetRandomWordAsync">
+            <summary>
+            Получить рандомное английское слово
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.WordsController.GetRandomDictionaryWordsAsync(System.Int32)">
+            <summary>
+            Получить несколько английских слов
+            </summary>
+            <param name="count">Нужное количество слов</param>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.WordsController.GetRandomUserDictionaryWordsAsync(System.Int32)">
+            <summary>
+            Получить несколько английских слов из словаря пользователя
+            </summary>
+            <param name="count">Нужное количество слов</param>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.WordsController.SetWordsAsync(System.String[][])">
+            <summary>
+            Добавить слова в словарь пользователя
+            </summary>
+            <param name="body">Массив слов в виде [Слово, перевод]</param>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.WordsController.GetWordsAsync">
+            <summary>
+            Получить слова из словаря
+            </summary>
+            <returns>Массив слов в виде [Слово, перевод]</returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.WordsController.RemoveSentenceAsync(System.String[])">
+            <summary>
+            Удалить [Слово, перевод] из словаря
+            </summary>
+            <param name="sentence"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.WorksController.AddDocument(EngSite.Api.Models.Works.AddDocumentRequest)">
+            <summary>
+            Добавить документ в хранилище
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.WorksController.SaveDocument(EngSite.Api.Models.Works.SaveDocumentRequest)">
+            <summary>
+            Сохранить существующий документ
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.WorksController.SendDocument(EngSite.Api.Models.Works.SaveDocumentRequest)">
+            <summary>
+            Поменять статус документа на следующий
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.WorksController.SendDocumentForRevision(EngSite.Api.Models.Works.SaveDocumentRequest)">
+            <summary>
+            Установить статус документа как "отправить на доработку"
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.WorksController.GetDocuments(EngSite.Api.Models.Works.GetDocumentsRequest)">
+            <summary>
+            Получить все документы
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.WorksController.GetDocument(EngSite.Api.Models.Works.GetDocumentRequest)">
+            <summary>
+            Получить документ по имени
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EngSite.Api.Web.Controllers.WorksController.DeleteDocument(EngSite.Api.Models.Works.DeleteDocumentRequest)">
+            <summary>
+            Удалить документ
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,12 @@
+.record{
+    border: 0.2vw solid black;
+    padding: 2%;
+}
+.record:hover{
+    background-color: #cfd0e3;
+}
+.text{
+    font-size: 2vw;
+    max-width: 60vw;
+    word-wrap: break-word;
+}

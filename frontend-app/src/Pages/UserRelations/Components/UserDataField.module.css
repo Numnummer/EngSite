@@ -1,0 +1,16 @@
+.workItem {
+  border: solid;
+}
+
+.workItem:hover {
+  background-color: beige;
+}
+
+.name {
+  font-size: 2.3vw;
+  font-weight: bold;
+  max-width: 80%;
+  word-wrap: break-word;
+  margin-left: 1%;
+  margin-top: 1%;
+}

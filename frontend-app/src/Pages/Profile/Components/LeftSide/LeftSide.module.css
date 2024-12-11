@@ -1,0 +1,17 @@
+.image{
+    width: 25vw;
+    height: 45vh;
+}
+
+.verticalBox{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+    margin-left: 8%;
+}
+
+.fullName{
+    font-size: 2vw;
+    max-width: 25vw;
+    word-wrap: break-word;
+}

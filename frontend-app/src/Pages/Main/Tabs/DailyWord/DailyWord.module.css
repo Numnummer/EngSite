@@ -1,0 +1,23 @@
+.verticalContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 7%;
+}
+.word{
+    font-size: 8vw;
+    font-weight: bold;
+    max-width: 80vw;
+    word-wrap: break-word;
+}
+.translation{
+    font-size: 4vw;
+    max-width: 80vw;
+    word-wrap: break-word;
+}
+.buttonContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 5%;
+}

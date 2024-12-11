@@ -1,0 +1,11 @@
+.cell{
+    border: 0.4vh solid #cfd0e3;
+    width: 45vw;
+}
+.innerText{
+    font-size: 2.5vw;
+    padding: 2%;
+    max-width: 42vw;
+    word-wrap: break-word;
+    border: 0;
+}

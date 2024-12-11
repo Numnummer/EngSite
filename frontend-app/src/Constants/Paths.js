@@ -1,0 +1,9 @@
+export const registrationPath = "/Registration";
+export const mainPath = "/Main";
+export const startPagePath = "/StartPage";
+export const aboutPath = "/About";
+export const forumPath = "/Forum";
+export const profilePath = "/Profile";
+export const worksPath = "/Works";
+export const pdfViwerPath = "/pdfViewer";
+export const userRelationsPath = "/userRelationsPath";

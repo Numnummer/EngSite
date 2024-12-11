@@ -1,0 +1,10 @@
+.buttonContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 1%;
+}
+
+.document {
+  overflow-y: auto;
+  height: 85vh;
+}

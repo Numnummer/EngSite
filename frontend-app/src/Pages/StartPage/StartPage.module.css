@@ -1,0 +1,19 @@
+.image{
+    width: 40%;
+    margin-right: 5%;
+}
+.horizontalContainer{
+    margin-top: 15vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+.welcome{
+    color: #535bf2;
+    font-size: 5vw;
+    font-family: "Ink Free";
+    font-weight: bold;
+    margin-left: 25%;
+}

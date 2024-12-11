@@ -1,0 +1,23 @@
+.tabBar {
+  background-color: #d6d9ff;
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 100%;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+
+.tabButton {
+  margin-top: 1%;
+  margin-bottom: 2%;
+  margin-left: 2%;
+  margin-right: 4%;
+  height: 50%;
+  width: 10%;
+  color: black;
+  font-size: 1.3vw;
+  text-align: center;
+  flex-shrink: 0;
+}

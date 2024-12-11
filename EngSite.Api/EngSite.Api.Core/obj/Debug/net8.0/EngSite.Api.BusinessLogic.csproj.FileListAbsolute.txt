@@ -1,0 +1,16 @@
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Core\bin\Debug\net8.0\EngSite.Api.BusinessLogic.deps.json
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Core\bin\Debug\net8.0\EngSite.Api.BusinessLogic.dll
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Core\bin\Debug\net8.0\EngSite.Api.BusinessLogic.pdb
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Core\bin\Debug\net8.0\EngSite.Api.Models.dll
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Core\bin\Debug\net8.0\EngSite.Api.Models.pdb
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Core\obj\Debug\net8.0\EngSite.Api.BusinessLogic.csproj.AssemblyReference.cache
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Core\obj\Debug\net8.0\EngSite.Api.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Core\obj\Debug\net8.0\EngSite.Api.BusinessLogic.AssemblyInfoInputs.cache
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Core\obj\Debug\net8.0\EngSite.Api.BusinessLogic.AssemblyInfo.cs
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Core\obj\Debug\net8.0\EngSite.Api.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Core\obj\Debug\net8.0\EngSite.Api.BusinessLogic.sourcelink.json
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Core\obj\Debug\net8.0\EngSite..EAE43C97.Up2Date
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Core\obj\Debug\net8.0\EngSite.Api.BusinessLogic.dll
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Core\obj\Debug\net8.0\refint\EngSite.Api.BusinessLogic.dll
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Core\obj\Debug\net8.0\EngSite.Api.BusinessLogic.pdb
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Core\obj\Debug\net8.0\ref\EngSite.Api.BusinessLogic.dll

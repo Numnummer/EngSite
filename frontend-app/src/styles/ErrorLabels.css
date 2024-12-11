@@ -1,0 +1,17 @@
+#registration-error-label {
+  font-size: 1.5vw;
+  color: red;
+  max-width: 45vw;
+  word-wrap: break-word;
+  display: none;
+  margin: 1%;
+}
+
+#enter-error-label {
+  font-size: 1.5vw;
+  color: red;
+  max-width: 45vw;
+  word-wrap: break-word;
+  display: none;
+  margin: 1%;
+}

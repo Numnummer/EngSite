@@ -1,0 +1,31 @@
+.text {
+  margin: 3%;
+  max-width: 90vw;
+  word-wrap: break-word;
+}
+.settings {
+  margin: 1%;
+  padding: 2%;
+  display: flex;
+  flex-direction: row;
+  border: 0.1vw solid black;
+}
+.input {
+  width: 3%;
+  margin-left: 1%;
+}
+.translationBox {
+  z-index: 99999;
+}
+
+.textName {
+  font-weight: bold;
+  margin-left: 40%;
+}
+
+.buttonContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 5%;
+}

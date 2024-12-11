@@ -1,0 +1,151 @@
+2024-04-27 13:50:47.9267|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-04-27 13:50:47.9267|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-04-27 13:50:47.9649|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-04-27 13:50:47.9649|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-04-27 13:50:47.9649|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-04-27 13:52:37.3544|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12346 |url: https://localhost/enter|action: SignInUser
+2024-04-27 13:52:38.1200|0|INFO|EngSite.Api.Web.Controllers.UserController|Returned 200 OK and jwt token as response |url: https://localhost/enter|action: SignInUser
+2024-04-27 19:26:33.0490|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-04-27 19:26:33.0490|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-04-27 19:26:33.0703|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-04-27 19:26:33.0703|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-04-27 19:26:33.0703|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-04-27 19:26:55.9314|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12346 |url: https://localhost/enter|action: SignInUser
+2024-04-27 19:26:55.9737|0|INFO|EngSite.Api.Web.Controllers.UserController|Returned 200 OK and jwt token as response |url: https://localhost/enter|action: SignInUser
+2024-04-27 19:38:47.6102|0|INFO|EngSite.Api.Web.Controllers.WorksController|400 error |url: https://localhost/works/addDocument|action: AddDocument
+2024-04-27 19:39:33.3372|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-04-27 19:39:33.3372|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-04-27 19:39:33.3715|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-04-27 19:39:33.3715|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-04-27 19:39:33.3715|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-04-27 19:40:31.0506|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-04-27 19:40:31.0538|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-04-27 19:40:31.0990|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-04-27 19:40:31.0990|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-04-27 19:40:31.0990|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-04-27 19:42:17.2967|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-04-27 19:42:17.2967|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-04-27 19:42:17.3383|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-04-27 19:42:17.3383|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-04-27 19:42:17.3383|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-04-27 19:45:33.7980|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-04-27 19:45:33.8023|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-04-27 19:45:33.8499|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-04-27 19:45:33.8499|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-04-27 19:45:33.8499|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-04-27 19:46:11.0385|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-04-27 19:46:11.0385|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-04-27 19:46:11.0884|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-04-27 19:46:11.0884|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-04-27 19:46:11.0884|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-04-27 19:49:58.9761|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-04-27 19:49:58.9761|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-04-27 19:49:59.0467|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-04-27 19:49:59.0467|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-04-27 19:49:59.0467|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-04-27 19:50:34.1477|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-04-27 19:50:34.1477|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-04-27 19:50:34.1901|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-04-27 19:50:34.1901|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-04-27 19:50:34.1901|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-04-27 19:51:32.9018|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-04-27 19:51:32.9018|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-04-27 19:51:32.9427|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-04-27 19:51:32.9427|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-04-27 19:51:32.9427|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-04-27 19:52:14.1736|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-04-27 19:52:14.1776|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-04-27 19:52:14.2401|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-04-27 19:52:14.2401|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-04-27 19:52:14.2401|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-04-27 19:59:48.8811|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-04-27 19:59:48.8811|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-04-27 19:59:48.9330|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-04-27 19:59:48.9330|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-04-27 19:59:48.9330|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-04-27 20:01:09.1729|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-04-27 20:01:09.1777|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-04-27 20:01:09.2320|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-04-27 20:01:09.2320|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-04-27 20:01:09.2320|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-04-27 20:02:37.6374|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-04-27 20:02:37.6374|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-04-27 20:02:37.7096|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-04-27 20:02:37.7096|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-04-27 20:02:37.7096|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-04-27 20:04:53.9843|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-04-27 20:04:53.9843|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-04-27 20:04:54.0229|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-04-27 20:04:54.0229|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-04-27 20:04:54.0229|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-04-27 20:05:40.9803|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (23ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?', @p2='?' (DbType = Int32), @p3='?'], CommandType='Text', CommandTimeout='30']
+INSERT INTO document (id, status, "teacher-student-id", url)
+VALUES (@p0, @p1, @p2, @p3); |url: https://localhost/works/addDocument|action: AddDocument
+2024-04-27 20:05:40.9901|10000|ERROR|Microsoft.EntityFrameworkCore.Update|An exception occurred in the database while saving changes for context type 'EngSite.Api.DataAccess.EnglishSiteContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: INSERT или UPDATE в таблице "document" нарушает ограничение внешнего ключа "document_fk"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 23503
+    MessageText: INSERT или UPDATE в таблице "document" нарушает ограничение внешнего ключа "document_fk"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: document
+    ConstraintName: document_fk
+    File: ri_triggers.c
+    Line: 2619
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken) Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: INSERT или UPDATE в таблице "document" нарушает ограничение внешнего ключа "document_fk"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 23503
+    MessageText: INSERT или UPDATE в таблице "document" нарушает ограничение внешнего ключа "document_fk"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: document
+    ConstraintName: document_fk
+    File: ri_triggers.c
+    Line: 2619
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)|url: https://localhost/works/addDocument|action: AddDocument

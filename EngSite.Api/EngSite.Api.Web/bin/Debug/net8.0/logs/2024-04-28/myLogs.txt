@@ -1,0 +1,22 @@
+2024-04-28 16:23:05.3497|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-04-28 16:23:05.3497|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-04-28 16:23:05.3979|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-04-28 16:23:05.3979|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-04-28 16:23:05.3979|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-04-28 16:23:45.2913|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12346 |url: https://localhost/enter|action: SignInUser
+2024-04-28 16:23:46.8391|0|INFO|EngSite.Api.Web.Controllers.UserController|Returned 200 OK and jwt token as response |url: https://localhost/enter|action: SignInUser
+2024-04-28 16:24:05.7088|0|INFO|EngSite.Api.Web.Controllers.WorksController|Ok response |url: https://localhost/works/addDocument|action: AddDocument
+2024-04-28 16:24:40.7603|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-04-28 16:24:40.7603|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-04-28 16:24:40.8306|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-04-28 16:24:40.8306|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-04-28 16:24:40.8306|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-04-28 16:25:42.4256|0|INFO|EngSite.Api.Web.Controllers.WorksController|Ok response |url: https://localhost/works/addDocument|action: AddDocument
+2024-04-28 16:27:40.3060|0|INFO|EngSite.Api.Web.Controllers.WorksController|400 error |url: https://localhost/works/addDocument|action: AddDocument
+2024-04-28 16:28:23.3184|0|INFO|EngSite.Api.Web.Controllers.WorksController|400 error |url: https://localhost/works/addDocument|action: AddDocument
+2024-04-28 16:28:57.0390|0|INFO|EngSite.Api.Web.Controllers.WorksController|Ok response |url: https://localhost/works/addDocument|action: AddDocument
+2024-04-28 17:34:10.7735|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-04-28 17:34:10.7735|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-04-28 17:34:10.8058|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-04-28 17:34:10.8058|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-04-28 17:34:10.8058|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 

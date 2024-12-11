@@ -1,0 +1,12 @@
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Contracts\bin\Debug\net8.0\EngSite.Api.Models.deps.json
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Contracts\bin\Debug\net8.0\EngSite.Api.Models.dll
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Contracts\bin\Debug\net8.0\EngSite.Api.Models.pdb
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Contracts\obj\Debug\net8.0\EngSite.Api.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Contracts\obj\Debug\net8.0\EngSite.Api.Models.AssemblyInfoInputs.cache
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Contracts\obj\Debug\net8.0\EngSite.Api.Models.AssemblyInfo.cs
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Contracts\obj\Debug\net8.0\EngSite.Api.Models.csproj.CoreCompileInputs.cache
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Contracts\obj\Debug\net8.0\EngSite.Api.Models.sourcelink.json
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Contracts\obj\Debug\net8.0\EngSite.Api.Models.dll
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Contracts\obj\Debug\net8.0\refint\EngSite.Api.Models.dll
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Contracts\obj\Debug\net8.0\EngSite.Api.Models.pdb
+D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Contracts\obj\Debug\net8.0\ref\EngSite.Api.Models.dll

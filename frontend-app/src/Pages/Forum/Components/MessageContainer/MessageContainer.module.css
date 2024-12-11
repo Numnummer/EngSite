@@ -1,0 +1,6 @@
+.container{
+    height: 68vh;
+    overflow-y: auto;
+    border: 2vh solid #ccc;
+    padding: 2%;
+}

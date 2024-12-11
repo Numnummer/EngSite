@@ -1,0 +1,25 @@
+.verticalBox{
+    display: flex;
+    flex-direction: column;
+    margin-top: 8%;
+    margin-left: 10%;
+}
+
+.info{
+    font-size: 1.7vw;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    max-width: 40vw;
+    word-wrap: break-word;
+}
+
+.infoBox{
+    display: flex;
+    flex-direction: column;
+}
+
+.line{
+    width: 40vw;
+    align-self: center;
+    border-style: solid;
+}

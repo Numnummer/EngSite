@@ -1,0 +1,9 @@
+.buttonContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.studentInput {
+  font-size: 2vw;
+}

@@ -1,0 +1,21 @@
+2024-05-20 07:57:49.2233|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-05-20 07:57:49.2233|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-05-20 07:57:49.2626|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-05-20 07:57:49.2626|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-05-20 07:57:49.2626|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 
+2024-05-20 07:58:54.2672|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12345 |url: https://localhost/enter|action: SignInUser
+2024-05-20 07:58:55.3604|0|INFO|EngSite.Api.Web.Controllers.UserController|Returned 200 OK and jwt token as response |url: https://localhost/enter|action: SignInUser
+2024-05-20 08:13:22.9245|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12346 |url: https://localhost/enter|action: SignInUser
+2024-05-20 08:13:22.9245|0|INFO|EngSite.Api.Web.Controllers.UserController|Returned 200 OK and jwt token as response |url: https://localhost/enter|action: SignInUser
+2024-05-20 08:13:58.2294|0|INFO|EngSite.Api.Web.Controllers.UserController|Got request at SignInUser. Login: 12346 |url: https://localhost/enter|action: SignInUser
+2024-05-20 08:13:58.2377|0|INFO|EngSite.Api.Web.Controllers.UserController|Returned 200 OK and jwt token as response |url: https://localhost/enter|action: SignInUser
+2024-05-20 08:14:55.3761|0|INFO|EngSite.Api.Web.Controllers.WorksController|Ok response |url: https://localhost/works/addDocument|action: AddDocument
+2024-05-20 08:15:14.8962|0|ERROR|EngSite.Api.DataAccess.Repository.MegaRepository|Value cannot be null. (Parameter 'node') |url: https://localhost/works/sendDocument|action: SendDocument
+2024-05-20 08:15:17.3243|0|ERROR|EngSite.Api.DataAccess.Repository.MegaRepository|API response: RequestFailedRetry |url: https://localhost/works/sendDocument|action: SendDocument
+2024-05-20 08:15:17.4043|0|ERROR|EngSite.Api.DataAccess.UnitOfWork.WorksDocumentUnitOfWork|Exception of type 'System.Exception' was thrown. |url: https://localhost/works/sendDocument|action: SendDocument
+2024-05-20 08:15:17.4043|0|INFO|EngSite.Api.Web.Controllers.WorksController|400 error |url: https://localhost/works/sendDocument|action: SendDocument
+2024-05-20 15:30:52.2014|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7074 |url: |action: 
+2024-05-20 15:30:52.2043|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5016 |url: |action: 
+2024-05-20 15:30:52.2367|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-05-20 15:30:52.2367|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-05-20 15:30:52.2367|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Hw\4 семестр\sem-work-asp-Numnummer\EngSite.Api\EngSite.Api.Web |url: |action: 

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "z1+gP5vn5twJ5rO2AfoLLuKx+L+KL4nob8Lg56+QYgE=",
+  "Source": "EngSite.Api.Web",
+  "BasePath": "_content/EngSite.Api.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

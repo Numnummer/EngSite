@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "H0Sqijour+ldbFA+w698TO/hcZGwsVcZbB6MF8byQP9kYEtgFFs11S3iHiR6G6HXAaOfmaGqdQmPqzVDwqX5bw==",
+  "success": true,
+  "projectFilePath": "D:\\Hw\\4 семестр\\sem-work-asp-Numnummer\\EngSite.Api\\EngSite.Api.Core\\EngSite.Api.BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Big\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Big\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\Big\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Big\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Big\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Big\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Big\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.5.0\\microsoft.identitymodel.abstractions.7.5.0.nupkg.sha512",
+    "C:\\Users\\Big\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.5.0\\microsoft.identitymodel.jsonwebtokens.7.5.0.nupkg.sha512",
+    "C:\\Users\\Big\\.nuget\\packages\\microsoft.identitymodel.logging\\7.5.0\\microsoft.identitymodel.logging.7.5.0.nupkg.sha512",
+    "C:\\Users\\Big\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.5.0\\microsoft.identitymodel.tokens.7.5.0.nupkg.sha512",
+    "C:\\Users\\Big\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.5.0\\system.identitymodel.tokens.jwt.7.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

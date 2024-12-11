@@ -1,0 +1,41 @@
+.verticalBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 6%;
+}
+.buttonContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 5%;
+}
+.word {
+  font-size: 8vw;
+  font-weight: bold;
+  max-width: 80vw;
+  word-wrap: break-word;
+}
+.translationInput {
+  font-size: 3vw;
+  width: 60vw;
+  background-color: #cfd0e3;
+}
+
+.answers {
+  display: flex;
+  flex-direction: row;
+}
+
+.answerButton {
+  margin: 1%;
+  font-size: 2.5vw;
+  background-color: rgb(165, 204, 255);
+}
+
+.selectedButton {
+  margin: 1%;
+  font-size: 2.2vw;
+  background-color: rgb(255, 255, 255);
+}

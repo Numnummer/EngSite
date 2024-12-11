@@ -1,0 +1,21 @@
+.searchInput{
+    background-color: #cfd0e3;
+    font-size: 2vw;
+    height: 5vh;
+}
+
+.image{
+    width: 3vw;
+    height: 5vh;
+    margin-left: 1%;
+    margin-top: 0.2%;
+}
+.image:hover{
+    width: 2.8vw;
+    height: 4.7vh;
+}
+
+.searchBox{
+    display: flex;
+    flex-direction: row;
+}

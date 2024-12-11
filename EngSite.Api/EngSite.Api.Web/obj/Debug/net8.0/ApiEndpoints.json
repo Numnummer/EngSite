@@ -1,0 +1,438 @@
+[
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.UserController",
+    "Method": "SignInUser",
+    "RelativePath": "enter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userData",
+        "Type": "EngSite.Api.Models.User.SignIn.SignInUserData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.ForumController",
+    "Method": "GetMessages",
+    "RelativePath": "forumControl/getMessages",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.UserController",
+    "Method": "GetUserData",
+    "RelativePath": "getUserData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.UserController",
+    "Method": "PostUserPhoto",
+    "RelativePath": "postUserPhoto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "photo",
+        "Type": "EngSite.Api.Models.User.PostUserPhoto.PhotoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.UserController",
+    "Method": "RegistrateUser",
+    "RelativePath": "register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestBody",
+        "Type": "EngSite.Api.Models.User.Registrate.RegistrationUserData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.StatsController",
+    "Method": "AddLearnedWords",
+    "RelativePath": "stats/addLearnedWords",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "body",
+        "Type": "EngSite.Api.Models.Stats.AddLearnedWordsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.StatsController",
+    "Method": "GetUserStat",
+    "RelativePath": "stats/getStats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.StatsController",
+    "Method": "Init",
+    "RelativePath": "stats/init",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.StudentTeacherController",
+    "Method": "AddStudent",
+    "RelativePath": "studentTeacher/addStudent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EngSite.Api.Models.StudentTeacher.AddStudentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.StudentTeacherController",
+    "Method": "GetStudents",
+    "RelativePath": "studentTeacher/getStudents",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.StudentTeacherController",
+    "Method": "GetTeachers",
+    "RelativePath": "studentTeacher/getTeachers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.TextController",
+    "Method": "AddTextToUserAsync",
+    "RelativePath": "text/addText",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "textData",
+        "Type": "EngSite.Api.Models.Texts.TextData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.TextController",
+    "Method": "GetAllTextsAsync",
+    "RelativePath": "text/getAllTexts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.TextController",
+    "Method": "GetRandomTextAsync",
+    "RelativePath": "text/getRandomText/{level}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "level",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.TextController",
+    "Method": "GetText",
+    "RelativePath": "text/getText/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.TranslationController",
+    "Method": "TranslateEnglishSentence",
+    "RelativePath": "translate/enRu",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sentence",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.TranslationController",
+    "Method": "TranslateRissianSentence",
+    "RelativePath": "translate/ruEn",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sentence",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.WordsController",
+    "Method": "GetRandomDictionaryWordsAsync",
+    "RelativePath": "words/getRandomDictionaryWords/{count}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "count",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.WordsController",
+    "Method": "GetRandomUserDictionaryWordsAsync",
+    "RelativePath": "words/getRandomUserDictionaryWords/{count}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "count",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.WordsController",
+    "Method": "GetRandomWordAsync",
+    "RelativePath": "words/getRandomWord",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.WordsController",
+    "Method": "GetWordsAsync",
+    "RelativePath": "words/getWords",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.WordsController",
+    "Method": "RemoveSentenceAsync",
+    "RelativePath": "words/removeSentence",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sentence",
+        "Type": "System.String[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.WordsController",
+    "Method": "SetWordsAsync",
+    "RelativePath": "words/setWords",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "body",
+        "Type": "System.String[][]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.WorksController",
+    "Method": "AddDocument",
+    "RelativePath": "works/addDocument",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EngSite.Api.Models.Works.AddDocumentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.WorksController",
+    "Method": "DeleteDocument",
+    "RelativePath": "works/deleteDocument",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EngSite.Api.Models.Works.DeleteDocumentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.WorksController",
+    "Method": "GetDocument",
+    "RelativePath": "works/getDocument",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "DocumentId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DocumentName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.WorksController",
+    "Method": "GetDocuments",
+    "RelativePath": "works/getDocuments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TeacherLogin",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "StudentLogin",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.WorksController",
+    "Method": "SaveDocument",
+    "RelativePath": "works/saveDocument",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EngSite.Api.Models.Works.SaveDocumentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.WorksController",
+    "Method": "SendDocument",
+    "RelativePath": "works/sendDocument",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EngSite.Api.Models.Works.SaveDocumentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EngSite.Api.Web.Controllers.WorksController",
+    "Method": "SendDocumentForRevision",
+    "RelativePath": "works/sendDocumentForRevision",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EngSite.Api.Models.Works.SaveDocumentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

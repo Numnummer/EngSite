@@ -1,0 +1,4 @@
+.horizontalBox{
+    display: flex;
+    flex-direction: row;
+}
